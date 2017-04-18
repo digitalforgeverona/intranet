@@ -8,7 +8,7 @@
 
 @section("headerElems")
 @la_access("Hotps", "create")
-	<button class="btn btn-success btn-sm pull-right" data-toggle="modal" data-target="#AddModal">Add Hotp</button>
+	<button class="btn btn-success btn-sm pull-right" data-toggle="modal" data-target="#AddModal">Add Hotp test</button>
 @endla_access
 @endsection
 
@@ -39,7 +39,7 @@
 		</tr>
 		</thead>
 		<tbody>
-			
+
 		</tbody>
 		</table>
 	</div>
@@ -57,7 +57,7 @@
 			<div class="modal-body">
 				<div class="box-body">
                     @la_form($module)
-					
+
 					{{--
 					@la_input($module, 'code')
 					@la_input($module, 'invoicenr')
@@ -100,7 +100,7 @@ $(function () {
 		@endif
 	});
 	$("#hotp-add-form").validate({
-		
+
 	});
 });
 </script>

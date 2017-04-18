@@ -51,7 +51,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-797">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1492536227000" expanded="true" signature="2778:2781" ph="{...}" />
+                <marker date="1492536227000" expanded="true" signature="2778:2796" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1004,7 +1007,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-797">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1492536227000" expanded="true" signature="2778:2781" ph="{...}" />
+            <marker date="1492536227000" expanded="true" signature="2778:2796" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
